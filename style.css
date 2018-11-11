@@ -2,11 +2,13 @@
 H1{
 color: rgb(159, 134, 170);
 font: 24pt courier;
+font-weight:600;
 }
 
 p{
 color: rgb(159, 134, 170);
 font: 18pt courier;
+font-weight:400;
 }
 
 body{
