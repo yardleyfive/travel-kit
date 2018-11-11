@@ -11,5 +11,11 @@ font: 18pt courier;
 
 body{
 background-color: rgb(217,217,214);
-background-size:30%
+background-size:30%;
+margin:0;
+}
+
+Img{
+  width:100%;
+ 
 }
